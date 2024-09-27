@@ -1,0 +1,11 @@
+header {
+    .cabecalho-imagem{
+        width:20%;
+
+    }
+    background-color: rgb(9, 164, 236);
+}
+.cabecalho-imagem {
+    height: 10px;
+    width: 3100px;
+}
